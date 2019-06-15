@@ -1,0 +1,28 @@
+{
+  "name": "crime-analysis-tool",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "base64-img": "^1.0.4",
+    "body-parser": "^1.18.3",
+    "crypto": "^1.0.1",
+    "crypto-random-string": "^2.0.0",
+    "csv-parser": "^2.2.0",
+    "express": "^4.16.4",
+    "fs": "0.0.1-security",
+    "get-pixels": "^3.3.2",
+    "keras-js": "^1.0.3",
+    "mime": "^2.4.0",
+    "multer": "^1.4.1",
+    "nodemon": "^1.18.10",
+    "path": "^0.12.7",
+    "sharp": "^0.22.0"
+  }
+}
