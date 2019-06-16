@@ -1,5 +1,5 @@
 {
-  "name": "crime-analysis-tool",
+  "name": "digit-recognition-ml",
   "version": "1.0.0",
   "description": "",
   "main": "node server.js",
